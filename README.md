@@ -10,4 +10,9 @@ mboshi_att_model_exp1:  corresponds to parallel corpus between French text and r
 
 mboshi_att_model_exp2:  corresponds to parallel corpus between French text and pseudo Mboshi phones obtained with Lucas's system
 
+* TTS   (Mboshi)
 
+mboshi/wav_original:     Original wav files in Mboshi
+mboshi/wav_zeroshot_lucas_tts:  Zero-Shot TTS wav files (Lucas' units)
+mboshi/wav_zeroshot_markus_tts:  Zero-Shot TTS wav files (Markus' units)
+ 
